@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-charlotte",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Charlotte GIS — Charlotte, North Carolina open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6b93c167eacb16749f982ed4e6e514b7968f393897a210392c4300c0501ad6bf",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-c66bc6381cea9ba34fda6d7fd6d624f36624c14a4a89f348c227ec5207cb80ad",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
